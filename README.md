@@ -81,3 +81,5 @@ If you have any questions, [post in the Snapcraft forum](https://forum.snapcraft
 | :---: |
 | [Upstream Name](https://github.com/upstreamname) |
 -->
+https://www.youtube.com/watch?v=6WgjQpm9VWE
+https://www.youtube.com/watch?v=QWZ_LjzT39k
